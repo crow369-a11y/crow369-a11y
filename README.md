@@ -20,7 +20,7 @@
 -  Exploring cybersecurity and bash scripting.
 -  Currently looking for a team or ready to join an exciting project!
 
-###  Tech Stack
+###  Tech Stack in progress...
 
 **Languages & Core:**  
 
