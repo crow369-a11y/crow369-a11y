@@ -55,18 +55,10 @@
 ###  GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=crow369-a11y&theme=matrix&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophy" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crow369-a11y&theme=github_dark" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crow369-a11y&theme=github_dark" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crow369-a11y&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crow369-a11y&theme=github_dark" alt="Stats" />
 </p>
-
 
 ###  Connect with Me
 <p align="center">
