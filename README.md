@@ -1,8 +1,15 @@
+<div align="center" style="position: relative; width: 100%; min-height: 400px; background: url('matrix-bg.svg') repeat; background-size: cover;">
+  
+<div style="position: relative; z-index: 10; background: rgba(13, 17, 23, 0.85); padding: 40px; border-radius: 10px; margin: 20px;">
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Hello%2C+World!;Student+%26+Linux+User;Exploring+ML+%26+DevOps;C+++%7C+C%23+%7C+Python;Looking+for+a+team+to+join!" alt="Typing SVG" />
   </a>
 </p>
+
+</div>
+</div>
 
 ---
 
