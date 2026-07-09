@@ -58,10 +58,6 @@
 
 ###  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crow369-a11y&show_icons=true&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=0d1117&hide_border=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crow369-a11y&layout=compact&title_color=00FF00&text_color=00FF00&bg_color=0d1117&hide_border=true&locale=en" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=crow369-a11y&theme=dark&hide_border=true&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" />
@@ -69,10 +65,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=crow369-a11y&theme=matrix&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophy" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crow369-a11y&bg_color=0d1117&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
@@ -88,10 +80,10 @@
 
 ###  Connect with Me
 <p align="center">
-  <a href="https://t.me/your_telegram_@lily_crow">
+  <a href="https://t.me/@lily_crow">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:fedotova37@psu.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
