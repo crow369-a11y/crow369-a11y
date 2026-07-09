@@ -1,0 +1,32 @@
+name: Generate Stats Cards
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Запускается каждые 6 часов
+  workflow_dispatch:  # Можно запустить вручную
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-top-langs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Generate top languages card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: top-langs
+          options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=6&title_color=00FF00&text_color=00FF00&bg_color=0d1117&hide_border=true'
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add profile/top-langs.svg
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update top languages card [skip ci]"
+          git push
