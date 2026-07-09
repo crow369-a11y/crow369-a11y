@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 800 600">
+  <defs>
+    <style>
+      @keyframes fall1 { from { transform: translateY(-100px); } to { transform: translateY(700px); } }
+      @keyframes fall2 { from { transform: translateY(-150px); } to { transform: translateY(750px); } }
+      @keyframes fall3 { from { transform: translateY(-200px); } to { transform: translateY(800px); } }
+      @keyframes fall4 { from { transform: translateY(-50px); } to { transform: translateY(650px); } }
+      @keyframes fall5 { from { transform: translateY(-120px); } to { transform: translateY(720px); } }
+    </style>
+  </defs>
+  
+  <rect width="100%" height="100%" fill="#0d1117"/>
+  
+  <g font-family="monospace" font-size="14" fill="#00FF00" opacity="0.3">
+    <text x="50" y="0" style="animation: fall1 8s linear infinite;">0</text>
+    <text x="100" y="0" style="animation: fall2 10s linear infinite;">1</text>
+    <text x="150" y="0" style="animation: fall3 12s linear infinite;">0</text>
+    <text x="200" y="0" style="animation: fall1 9s linear infinite;">1</text>
+    <text x="250" y="0" style="animation: fall4 11s linear infinite;">0</text>
+    <text x="300" y="0" style="animation: fall2 7s linear infinite;">1</text>
+    <text x="350" y="0" style="animation: fall5 13s linear infinite;">0</text>
+    <text x="400" y="0" style="animation: fall1 10s linear infinite;">1</text>
+    <text x="450" y="0" style="animation: fall3 8s linear infinite;">0</text>
+    <text x="500" y="0" style="animation: fall2 12s linear infinite;">1</text>
+    <text x="550" y="0" style="animation: fall4 9s linear infinite;">0</text>
+    <text x="600" y="0" style="animation: fall1 11s linear infinite;">1</text>
+    <text x="650" y="0" style="animation: fall5 10s linear infinite;">0</text>
+    <text x="700" y="0" style="animation: fall3 8s linear infinite;">1</text>
+    <text x="750" y="0" style="animation: fall2 13s linear infinite;">0</text>
+    
+    <text x="75" y="0" style="animation: fall3 11s linear infinite;">1</text>
+    <text x="125" y="0" style="animation: fall1 9s linear infinite;">0</text>
+    <text x="175" y="0" style="animation: fall4 12s linear infinite;">1</text>
+    <text x="225" y="0" style="animation: fall2 8s linear infinite;">0</text>
+    <text x="275" y="0" style="animation: fall5 10s linear infinite;">1</text>
+    <text x="325" y="0" style="animation: fall1 13s linear infinite;">0</text>
+    <text x="375" y="0" style="animation: fall3 9s linear infinite;">1</text>
+    <text x="425" y="0" style="animation: fall2 11s linear infinite;">0</text>
+    <text x="475" y="0" style="animation: fall4 8s linear infinite;">1</text>
+    <text x="525" y="0" style="animation: fall1 12s linear infinite;">0</text>
+    <text x="575" y="0" style="animation: fall5 10s linear infinite;">1</text>
+    <text x="625" y="0" style="animation: fall3 9s linear infinite;">0</text>
+    <text x="675" y="0" style="animation: fall2 11s linear infinite;">1</text>
+    <text x="725" y="0" style="animation: fall4 8s linear infinite;">0</text>
+  </g>
+</svg>
