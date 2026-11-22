@@ -3,9 +3,10 @@
 <div style="position: relative; z-index: 10; background: rgba(13, 17, 23, 0.85); padding: 40px; border-radius: 10px; margin: 20px;">
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Hello%2C+World!;Student+%26+Linux+User;Exploring+ML+%26+DevOps;C+++%7C+C%23+%7C+Python;Looking+for+a+team+to+join!" alt="Typing SVG" />
-  </a>
+  <img src="matrix-bg.svg" width="100%" alt="banner">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?...&lines=..." alt="Typing SVG" />
 </p>
 
 </div>
@@ -13,16 +14,17 @@
 
 ---
 
-###  About Me
--  Student in Applied Mathematics and Informatics.
--  Frontend development, Linux environment, and exploring ML & DevOps.
--  Passionate about C++, C#, Python, GameDev, and Android development.
--  Exploring cybersecurity and bash scripting.
--  Currently looking for a team or ready to join an exciting project!
+### About Me
 
-###  Tech Stack in progress...
+- Student in Applied Mathematics and Informatics.
+- Frontend development, Linux environment, and exploring ML & DevOps.
+- Passionate about C++, C#, Python, GameDev, and Android development.
+- Exploring cybersecurity and bash scripting.
+- Currently looking for a team or ready to join an exciting project!
 
-**Languages & Core:**  
+### Tech Stack in progress...
+
+**Languages & Core:**
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -39,7 +41,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </p>
 
-**Tools & OS:**  
+**Tools & OS:**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -48,7 +50,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
-**Interests:**  
+**Interests:**
 
 <p>
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning">
@@ -58,14 +60,16 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 </p>
 
-
-###  GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="profile/top-langs.svg" alt="Top Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crow368-a11y&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9&icon_color=00FF00&langs_count=8" alt="Top Languages" />
+  </a>
 </p>
 
-###  Connect with Me
+### Connect with Me
+
 <p align="center">
   <a href="https://t.me/lily_crow">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
